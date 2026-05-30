@@ -32,6 +32,10 @@ MANIFEST
 *.manifest
 *.spec
 
+# Notebook Outputs
+notebooks/data/
+notebooks/models/
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
